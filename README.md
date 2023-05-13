@@ -2,6 +2,8 @@
 
 ## Landing Page Virbela
 
+![Vista previa](images/inicio-metaversos.png)
+
 Este proyecto que fue desarrollado tiene como objetivo crear una landing page para el evento del año de una plataforma de e-learning en el metaverso Virbela, que permitiera a los usuarios registrarse para el evento.
 
 ## Uso
